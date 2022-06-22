@@ -1,0 +1,17 @@
+Qual a diferença entre front-end e back-end
+
+O desenvolvimento do front-end e do back-end são bastante diferentes um do outro, mas, 
+ainda assim, são dois aspectos do iceberg, uma parte você vê e outra não, mas ambas estão lá.
+
+Ou seja, o front-end é o que os usuários veem e interagem, e o back-end é a base que sustenta tudo.
+
+Digamos ainda que front-end é a parte do site que os usuários podem ver e interagir, como a interface gráfica do usuário
+ (GUI) e a linha de comando, incluindo o design, menus de navegação, textos, imagens, vídeos etc.
+
+E back-end, ao contrário, é a parte do site os usuários não podem ver e interagir.
+
+Para nunca mais esquecer a diferença aí vai uma dica: Front-end trata de sensibilidade e back-end de comunicação. 😉
+
+Lembre-se: Parado leia, andando ouça, mas nunca pare de aprender!
+
+Site acessado: https://blog.geekhunter.com.br/back-end-front-end/

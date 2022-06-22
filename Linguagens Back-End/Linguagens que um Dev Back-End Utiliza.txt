@@ -1,0 +1,35 @@
+O que é um desenvolvedor Back-end
+
+Por outro lado, o back-end é a parte que ninguém está vendo, ou seja, tudo que roda no servidor atrelado a inteligência do site ou aplicativo para entregar 
+o que o front-end usa, é o back-end que executa.
+
+De certa maneira, o back-end trabalha para o front-end e, com a junção das duas partes, o resultado é atingido e a entrega do produto ou serviço é concluída 
+para o usuário final.
+
+Importante frisar que, dentre algumas atribuições técnicas, é nessa parte que é definido como o servidor irá se comunicar com o banco de dados da aplicação bem como 
+tratar a comunicação do front-end com o servidor utilizado.
+
+Além disso, também deve definir se existirá ou não uma camada de cache informando para o navegador o que ele pode guardar localmente e o que ele precisa retornar 
+constantemente para o servidor, configuração de servidor de e-mail utilizado etc.
+
+Também, aqui a comunicação dever objetiva de tal maneira que seja identificado o que funciona, o que não funciona, e como tratar os erros 
+minimizando a possibilidade de retorno desses problemas.
+
+
+Linguagens de Back-end:
+São exemplos de linguagens de back-end:
+
+PHP
+O PHP é uma linguagem de script do lado do servidor projetada especificamente para desenvolvimento web.
+
+Programar em PHP: como começar?
+
+Java
+Java é uma das linguagens e plataformas de programação mais populares e amplamente utilizadas. É famosa também por ser altamente escalonável.
+
+
+Python
+Python é uma linguagem de programação que permite trabalhar rapidamente e integrar sistemas com mais eficiência. 
+Muito popular e feita para ser simples e prática.
+
+Site acessado: https://blog.geekhunter.com.br/back-end-front-end/

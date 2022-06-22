@@ -1,0 +1,52 @@
+O que é um desenvolvedor Front-end
+
+Você acessou o site da GeekHunter e visualizou toda a página com os principais artigos organizados, 
+menu de navegação categorizado e layout definido com as cores branco e roxo como principais? Maravilha!
+
+Ou seja, tudo aquilo que o usuário consegue visualizar, clicar ou ter algum outro tipo de interação, o 
+front-end é o responsável por fazer isso acontecer.
+
+Capacidade de resposta e desempenho são dois objetivos principais do front-end.
+
+O desenvolvedor deve garantir a responsividade, ou seja, que ele apareça corretamente em dispositivos de todos os tamanhos,
+ nenhuma parte do site deve se comportar de maneira anormal, independentemente do tamanho da tela.
+
+Todo detalhe é importante, visto que o usuário que está acessando um site ou aplicativo está desde consumindo conteúdo que
+ ele julga relevante ou até realizando uma compra, por exemplo.
+
+Nada pode ser mais desagradável que uma interface nada amigável e que faça o usuário desistir de deixar um pouco dos dois
+ maiores ativos que ela possui: tempo e dinheiro.
+
+
+
+
+Linguagens de Front-end:
+São exemplos de linguagens front-end:
+
+HTML
+
+HTML significa Hyper Text Markup Language. Ele é usado para projetar a parte do front-end de páginas da web com sua linguagem de marcação e hipertexto.
+
+O hipertexto define o link entre as páginas da web e a linguagem de marcação é usada para definir a documentação de texto dentro da tag que define a
+ estrutura das páginas da web.
+
+
+
+CSS
+
+CSS é uma linguagem de design simples com a intenção de simplificar o processo de tornar as páginas da web mais apresentáveis.
+
+Ele permite que você aplique estilos a páginas da web e que você faça isso independentemente do HTML.
+
+Editor HTML, CSS e JavaScript: qual você deve usar em 2020
+
+JavaScript
+
+JavaScript é uma linguagem de programação usada para provocar a interação do usuário junto a um site ou aplicativo. 
+Ele é quem permite implementar jogos legais e software baseado na web.
+
+Confira este guia para iniciantes na linguagem JavaScript.
+
+Hoje ela é a linguagem mais utilizada e é suportada por todos os grandes navegadores do mercado sem que o usuário tenha que instalar nenhum plug-in para tal.
+
+Site acessado: https://blog.geekhunter.com.br/back-end-front-end/
